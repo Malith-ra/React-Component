@@ -1,8 +1,5 @@
 {
-  "name": "@malith-ra/react-component",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/React-Component"
-  },
+  "name": "malithoore",
   "version": "0.1.0",
   "description": "A simple template for a custom React component library",
   "scripts": {
